@@ -1,0 +1,17 @@
+# Ignore analysis results
+/analysis_results/
+/analysis_results/*
+
+# Ignore efficiency-selected large files
+/efficiency-sleected/
+/efficiency-sleected/*
+/efficiency-selected.zip
+
+# Common files to ignore
+.DS_Store
+.env
+*.log
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class 
